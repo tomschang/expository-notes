@@ -1,1 +1,2 @@
 # expository-notes
+This repo is going to be a collection of various notebooks that illustrate a neat algorithm or concept. Eventually I plan on giving it some more structure than just being a collection of notebooks.
